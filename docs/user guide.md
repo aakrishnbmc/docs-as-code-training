@@ -1,4 +1,5 @@
-- [Getting Started](#getting-started)
+
+- [User guide](#user-guide)
   - [Before you begin](#before-you-begin)
   - [Next steps](#next-steps)
   - [List](#list)
@@ -7,7 +8,7 @@
 
 
 
-# Getting Started
+# User guide
 Welcome to our product documentation.   Welcome to our product documentation.
 
 ## Before you begin
