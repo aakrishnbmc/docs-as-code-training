@@ -60,9 +60,9 @@ C#
 
 ## For information, see [BMC YouTube](https://www.youtube.com/watch?v=-qOL7NpjFXU&list=PL4vsoo8cqfN63M3eyxIWlBkH_CYqjwQOh).
 
-![VSC](/Images/images.jpeg)
+![VSC](/images/images.jpeg)
 
-<img src="/Images/SORT and SORT2 statements and parameters_Syntax _UPDATED.png" width="700" height="200" />
+<img src="/images/SORT and SORT2 statements and parameters_Syntax _UPDATED.png" width="700" height="200" />
 
 | Product | Enhancement | Deatils |
 | :--- | :---: | ---: |
