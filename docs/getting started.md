@@ -1,6 +1,8 @@
 # Getting started
+Add content for Getting started.
 
 ## Explain SQL statements
+Remove space.
 
 In SQL Explorer, running an **Explain** job explains the steps that the Db2 optimizer must take to execute the relevant SQL statements. You can run an Explain job to see an explanation of any of the following types of statements:
 
