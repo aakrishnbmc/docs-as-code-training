@@ -1,4 +1,4 @@
-# Getting started [Testing comments]
+# Getting started
 SQL Explorer helps you analyze SQL statements and identify opportunities to improve SQL performance. You can use SQL Explorer to review SQL statements, examine performance information, and identify recommendations for improving your SQL environment.
 
 To get started:
